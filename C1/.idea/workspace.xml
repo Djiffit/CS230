@@ -55,66 +55,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="COURSE 1 Neural Networks and Deep Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="COURSE 1 Neural Networks and Deep Learning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="COURSE 1 Neural Networks and Deep Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="COURSE 1 Neural Networks and Deep Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="readonly" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="COURSE 1 Neural Networks and Deep Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="COURSE 1 Neural Networks and Deep Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="readonly" type="462c0819:PsiDirectoryNode" />
-              <item name="week3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="COURSE 1 Neural Networks and Deep Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="COURSE 1 Neural Networks and Deep Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="readonly" type="462c0819:PsiDirectoryNode" />
-              <item name="week3" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="COURSE 1 Neural Networks and Deep Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="COURSE 1 Neural Networks and Deep Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Week 01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="COURSE 1 Neural Networks and Deep Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="COURSE 1 Neural Networks and Deep Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Week 2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="COURSE 1 Neural Networks and Deep Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="COURSE 1 Neural Networks and Deep Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Week 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Logistic Regression as a Neural Network" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="COURSE 1 Neural Networks and Deep Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="COURSE 1 Neural Networks and Deep Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Week 4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="COURSE 1 Neural Networks and Deep Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="COURSE 1 Neural Networks and Deep Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Week 4" type="462c0819:PsiDirectoryNode" />
-              <item name="Building your Deep Neural Network - Step by Step" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="COURSE 1 Neural Networks and Deep Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -159,7 +100,7 @@
   <component name="ToolWindowManager">
     <frame x="4361" y="18" width="2039" height="2142" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07684581" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07734807" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
